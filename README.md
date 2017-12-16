@@ -1,2 +1,2 @@
 # GoogleCodeJam
-My solution to Google Code Jam contest
+### My solution to annual Google Code Jam contest
